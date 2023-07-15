@@ -474,6 +474,7 @@
         ],
         "aStartingConds" : [
           "IsCBox01=1.0x1.0",
+          "IsToolBox",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -524,6 +525,7 @@
         ],
         "aStartingConds" : [
           "IsCBox02=1.0x1.0",
+          "IsToolBox",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -574,6 +576,7 @@
         ],
         "aStartingConds" : [
           "IsCBox03=1.0x1.0",
+          "IsToolBox",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -624,6 +627,7 @@
         ],
         "aStartingConds" : [
           "IsCBox04=1.0x1.0",
+          "IsToolBox",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -674,6 +678,7 @@
         ],
         "aStartingConds" : [
           "IsCBox05=1.0x1.0",
+          "IsToolBox",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -724,6 +729,7 @@
         ],
         "aStartingConds" : [
           "IsCBox06=1.0x1.0",
+          "IsToolBox",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -774,6 +780,7 @@
         ],
         "aStartingConds" : [
           "IsCBox07=1.0x1.0",
+          "IsToolBox",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -824,6 +831,7 @@
         ],
         "aStartingConds" : [
           "IsCBox08=1.0x1.0",
+          "IsToolBox",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -874,6 +882,7 @@
         ],
         "aStartingConds" : [
           "IsCBox09=1.0x1.0",
+          "IsToolBox",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
