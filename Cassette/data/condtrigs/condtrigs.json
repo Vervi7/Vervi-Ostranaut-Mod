@@ -1,0 +1,21 @@
+[
+    { "strName" : "TIsFitCassette01", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsMobo", "IsCBox01" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCassette02", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsMotor", "IsCBox02" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCassette03", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsHeatSink", "IsCBox03" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCassette04", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsScreen", "IsCBox04" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCassette05", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsScrapCarbonFiber", "IsCBox05" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCassette06", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsScrapSteel", "IsCBox06" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCassette07", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsScrapAluminum", "IsCBox07" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCassette08", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsPartsElecSmall", "IsCBox08" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCassette09", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsPartsMechSmall", "IsCBox09" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+
+    { "strName" : "TIsFitCBox01", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsMobo" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCBox02", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsMotor" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCBox03", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsHeatSink" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCBox04", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsScreen" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCBox05", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsScrapCarbonFiber" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCBox06", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsScrapSteel" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCBox07", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsScrapAluminum" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCBox08", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsPartsElecSmall" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true },
+    { "strName" : "TIsFitCBox09", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsPartsMechSmall" ], "aForbids" : [ ], "aTriggers" : [ "TIsFitContainerSolid" ], "bAND" : true }
+]

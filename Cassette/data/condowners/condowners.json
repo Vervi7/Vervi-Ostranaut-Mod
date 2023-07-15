@@ -1,0 +1,912 @@
+[
+    {
+        "strName" : "ItmCassette01",
+        "strNameShort" : "MB-Cassette",
+        "strNameFriendly" : "Motherboard \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene carrying case, specialized in storing motherboard. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCassette01",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCassette01=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassette01",
+        "nContainerHeight"   : 2,
+        "nContainerWidth"   : 4,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCassette01",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCassette02",
+        "strNameShort" : "MT-Cassette",
+        "strNameFriendly" : "Motor \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene carrying case, specialized in storing motor. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCassette02",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCassette02=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassette02",
+        "nContainerHeight"   : 2,
+        "nContainerWidth"   : 4,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCassette02",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCassette03",
+        "strNameShort" : "HS-Cassette",
+        "strNameFriendly" : "Heat Sink \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene carrying case, specialized in storing Heat Sink. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCassette03",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCassette03=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassette03",
+        "nContainerHeight"   : 2,
+        "nContainerWidth"   : 4,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCassette03",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCassette04",
+        "strNameShort" : "S-Cassette",
+        "strNameFriendly" : "Screen \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene carrying case, specialized in storing Screen. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCassette04",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCassette04=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassette04",
+        "nContainerHeight"   : 2,
+        "nContainerWidth"   : 4,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCassette04",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCassette05",
+        "strNameShort" : "CF-Cassette",
+        "strNameFriendly" : "Carbon Fiber \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene carrying case, specialized in storing Carbon Fiber. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCassette05",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCassette05=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassette05",
+        "nContainerHeight"   : 2,
+        "nContainerWidth"   : 4,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCassette05",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCassette06",
+        "strNameShort" : "S-Cassette",
+        "strNameFriendly" : "Steel \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene carrying case, specialized in storing Steel. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCassette06",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCassette06=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassette06",
+        "nContainerHeight"   : 2,
+        "nContainerWidth"   : 4,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCassette06",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCassette07",
+        "strNameShort" : "A-Cassette",
+        "strNameFriendly" : "Aluminium \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene carrying case, specialized in storing Aluminium. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCassette07",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCassette07=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassette07",
+        "nContainerHeight"   : 2,
+        "nContainerWidth"   : 4,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCassette07",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCassette08",
+        "strNameShort" : "E-Cassette",
+        "strNameFriendly" : "Electronic Parts \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene carrying case, specialized in storing Electronic Parts. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCassette08",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCassette08=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassette08",
+        "nContainerHeight"   : 2,
+        "nContainerWidth"   : 4,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCassette08",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCassette09",
+        "strNameShort" : "M-Cassette",
+        "strNameFriendly" : "Mechanical Parts \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene carrying case, specialized in storing Mechanical Parts. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCassette09",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCassette09=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassette09",
+        "nContainerHeight"   : 2,
+        "nContainerWidth"   : 4,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCassette09",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCBox01",
+        "strNameShort" : "MB-CBox",
+        "strNameFriendly" : "Motherboard \"Cassette\" Storage Box",
+        "strDesc" : "A graphene carrying box, specialized in storing motherboard. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCBox01",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCBox01=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCBox01",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 2,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCBox01",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCBox02",
+        "strNameShort" : "MT-CBox",
+        "strNameFriendly" : "Motor \"Cassette\" Storage Box",
+        "strDesc" : "A graphene carrying box, specialized in storing motor. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCBox02",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCBox02=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCBox02",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 2,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCBox02",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCBox03",
+        "strNameShort" : "HS-CBox",
+        "strNameFriendly" : "Heat Sink \"Cassette\" Storage Box",
+        "strDesc" : "A graphene carrying box, specialized in storing Heat Sink. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCBox03",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCBox03=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCBox03",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 2,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCBox03",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCBox04",
+        "strNameShort" : "S-CBox",
+        "strNameFriendly" : "Screen \"Cassette\" Storage Box",
+        "strDesc" : "A graphene carrying box, specialized in storing Screen. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCBox04",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCBox04=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCBox04",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 2,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCBox04",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCBox05",
+        "strNameShort" : "CF-CBox",
+        "strNameFriendly" : "Carbon Fiber \"Cassette\" Storage Box",
+        "strDesc" : "A graphene carrying box, specialized in storing Carbon Fiber. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCBox05",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCBox05=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCBox05",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 2,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCBox05",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCBox06",
+        "strNameShort" : "S-CBox",
+        "strNameFriendly" : "Steel \"Cassette\" Storage Box",
+        "strDesc" : "A graphene carrying box, specialized in storing Steel. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCBox06",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCBox06=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCBox06",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 2,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCBox06",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCBox07",
+        "strNameShort" : "A-CBox",
+        "strNameFriendly" : "Aluminium \"Cassette\" Storage Box",
+        "strDesc" : "A graphene carrying box, specialized in storing Aluminium. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCBox07",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCBox07=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCBox07",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 2,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCBox07",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCBox08",
+        "strNameShort" : "E-CBox",
+        "strNameFriendly" : "Electronic Parts \"Cassette\" Storage Box",
+        "strDesc" : "A graphene carrying box, specialized in storing Electronic Parts. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCBox08",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCBox08=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCBox08",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 2,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCBox08",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCBox09",
+        "strNameShort" : "M-CBox",
+        "strNameFriendly" : "Mechanical Parts \"Cassette\" Storage Box",
+        "strDesc" : "A graphene carrying box, specialized in storing Mechanical Parts. Lightweight, spacious and durable, but highly expensive.",
+        "strItemDef" : "ItmCBox09",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCBox09=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCBox09",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 2,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCBox09",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      }
+
+]
