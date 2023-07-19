@@ -1,164 +1,24 @@
 [
-    {
-        "strName" : "ItmCassette01",
-        "aCOs"    : [
-          "ItmCassette01=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCassette02",
-        "aCOs"    : [
-          "ItmCassette02=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCassette03",
-        "aCOs"    : [
-          "ItmCassette03=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCassette04",
-        "aCOs"    : [
-          "ItmCassette04=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCassette05",
-        "aCOs"    : [
-          "ItmCassette05=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCassette06",
-        "aCOs"    : [
-          "ItmCassette06=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCassette07",
-        "aCOs"    : [
-          "ItmCassette07=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCassette08",
-        "aCOs"    : [
-          "ItmCassette08=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCassette09",
-        "aCOs"    : [
-          "ItmCassette09=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCBox01",
-        "aCOs"    : [
-          "ItmCBox01=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCBox02",
-        "aCOs"    : [
-          "ItmCBox02=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCBox03",
-        "aCOs"    : [
-          "ItmCBox03=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCBox04",
-        "aCOs"    : [
-          "ItmCBox04=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCBox05",
-        "aCOs"    : [
-          "ItmCBox05=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCBox06",
-        "aCOs"    : [
-          "ItmCBox06=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCBox07",
-        "aCOs"    : [
-          "ItmCBox07=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCBox08",
-        "aCOs"    : [
-          "ItmCBox08=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      },
-      {
-        "strName" : "ItmCBox09",
-        "aCOs"    : [
-          "ItmCBox09=1.0x1"
-        ],
-        "aLoots"  : [
-        ],
-        "strType" : "item"
-      }
+    { "strName" : "ItmCassette01", "aCOs" : [ "ItmCassette01=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCassette02", "aCOs" : [ "ItmCassette02=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCassette03", "aCOs" : [ "ItmCassette03=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCassette04", "aCOs" : [ "ItmCassette04=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCassette05", "aCOs" : [ "ItmCassette05=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCassette06", "aCOs" : [ "ItmCassette06=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCassette07", "aCOs" : [ "ItmCassette07=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCassette08", "aCOs" : [ "ItmCassette08=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCassette09", "aCOs" : [ "ItmCassette09=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCBox01", "aCOs" : [ "ItmCBox01=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCBox02", "aCOs" : [ "ItmCBox02=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCBox03", "aCOs" : [ "ItmCBox03=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCBox04", "aCOs" : [ "ItmCBox04=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCBox05", "aCOs" : [ "ItmCBox05=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCBox06", "aCOs" : [ "ItmCBox06=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCBox07", "aCOs" : [ "ItmCBox07=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCBox08", "aCOs" : [ "ItmCBox08=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCBox09", "aCOs" : [ "ItmCBox09=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCRack01", "aCOs" : [ "ItmCRack01=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCRack01Loose", "aCOs" : [ "ItmCRack01Loose=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCRack01Dmg", "aCOs" : [ "ItmCRack01Dmg=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCRack01DmgLoose", "aCOs" : [ "ItmCRack01DmgLoose=1.0x1" ], "aLoots" : [ ], "strType" : "item" }
 ]

@@ -14,7 +14,7 @@
           "ACTCassetteScrap"
         ],
         "aStartingConds" : [
-          "IsCassette01=1.0x1.0",
+          "IsCassette=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -65,7 +65,7 @@
           "ACTCassetteScrap"
         ],
         "aStartingConds" : [
-          "IsCassette02=1.0x1.0",
+          "IsCassette=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -116,7 +116,7 @@
           "ACTCassetteScrap"
         ],
         "aStartingConds" : [
-          "IsCassette03=1.0x1.0",
+          "IsCassette=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -167,7 +167,7 @@
           "ACTCassetteScrap"
         ],
         "aStartingConds" : [
-          "IsCassette04=1.0x1.0",
+          "IsCassette=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -218,7 +218,7 @@
           "ACTCassetteScrap"
         ],
         "aStartingConds" : [
-          "IsCassette05=1.0x1.0",
+          "IsCassette=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -269,7 +269,7 @@
           "ACTCassetteScrap"
         ],
         "aStartingConds" : [
-          "IsCassette06=1.0x1.0",
+          "IsCassette=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -320,7 +320,7 @@
           "ACTCassetteScrap"
         ],
         "aStartingConds" : [
-          "IsCassette07=1.0x1.0",
+          "IsCassette=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -371,7 +371,7 @@
           "ACTCassetteScrap"
         ],
         "aStartingConds" : [
-          "IsCassette08=1.0x1.0",
+          "IsCassette=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -422,7 +422,7 @@
           "ACTCassetteScrap"
         ],
         "aStartingConds" : [
-          "IsCassette09=1.0x1.0",
+          "IsCassette=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -470,10 +470,11 @@
           "Inventory",
           "DropItem",
           "PickupItem",
-          "ACTCassetteScrap"
+          "ACTCassetteBScrap"
         ],
         "aStartingConds" : [
           "IsCBox01=1.0x1.0",
+          "IsCassetteB=1.0x1.0",
           "IsToolBox=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -496,7 +497,7 @@
           "Melee","MeleeAttackDefault"
         ],
         "aUpdateCommands" : [
-          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+          "Destructable,StatDamage,ACTCassetteBDmg,StatDamageMax,1.0"
         ],
         "mapGUIPropMaps"  : [
         ],
@@ -521,10 +522,11 @@
           "Inventory",
           "DropItem",
           "PickupItem",
-          "ACTCassetteScrap"
+          "ACTCassetteBScrap"
         ],
         "aStartingConds" : [
           "IsCBox02=1.0x1.0",
+          "IsCassetteB=1.0x1.0",
           "IsToolBox=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -547,7 +549,7 @@
           "Melee","MeleeAttackDefault"
         ],
         "aUpdateCommands" : [
-          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+          "Destructable,StatDamage,ACTCassetteBDmg,StatDamageMax,1.0"
         ],
         "mapGUIPropMaps"  : [
         ],
@@ -572,10 +574,11 @@
           "Inventory",
           "DropItem",
           "PickupItem",
-          "ACTCassetteScrap"
+          "ACTCassetteBScrap"
         ],
         "aStartingConds" : [
           "IsCBox03=1.0x1.0",
+          "IsCassetteB=1.0x1.0",
           "IsToolBox=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -598,7 +601,7 @@
           "Melee","MeleeAttackDefault"
         ],
         "aUpdateCommands" : [
-          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+          "Destructable,StatDamage,ACTCassetteBDmg,StatDamageMax,1.0"
         ],
         "mapGUIPropMaps"  : [
         ],
@@ -623,10 +626,11 @@
           "Inventory",
           "DropItem",
           "PickupItem",
-          "ACTCassetteScrap"
+          "ACTCassetteBScrap"
         ],
         "aStartingConds" : [
           "IsCBox04=1.0x1.0",
+          "IsCassetteB=1.0x1.0",
           "IsToolBox=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -649,7 +653,7 @@
           "Melee","MeleeAttackDefault"
         ],
         "aUpdateCommands" : [
-          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+          "Destructable,StatDamage,ACTCassetteBDmg,StatDamageMax,1.0"
         ],
         "mapGUIPropMaps"  : [
         ],
@@ -674,10 +678,11 @@
           "Inventory",
           "DropItem",
           "PickupItem",
-          "ACTCassetteScrap"
+          "ACTCassetteBScrap"
         ],
         "aStartingConds" : [
           "IsCBox05=1.0x1.0",
+          "IsCassetteB=1.0x1.0",
           "IsToolBox=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -700,7 +705,7 @@
           "Melee","MeleeAttackDefault"
         ],
         "aUpdateCommands" : [
-          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+          "Destructable,StatDamage,ACTCassetteBDmg,StatDamageMax,1.0"
         ],
         "mapGUIPropMaps"  : [
         ],
@@ -725,10 +730,11 @@
           "Inventory",
           "DropItem",
           "PickupItem",
-          "ACTCassetteScrap"
+          "ACTCassetteBScrap"
         ],
         "aStartingConds" : [
           "IsCBox06=1.0x1.0",
+          "IsCassetteB=1.0x1.0",
           "IsToolBox=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -751,7 +757,7 @@
           "Melee","MeleeAttackDefault"
         ],
         "aUpdateCommands" : [
-          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+          "Destructable,StatDamage,ACTCassetteBDmg,StatDamageMax,1.0"
         ],
         "mapGUIPropMaps"  : [
         ],
@@ -776,10 +782,11 @@
           "Inventory",
           "DropItem",
           "PickupItem",
-          "ACTCassetteScrap"
+          "ACTCassetteBScrap"
         ],
         "aStartingConds" : [
           "IsCBox07=1.0x1.0",
+          "IsCassetteB=1.0x1.0",
           "IsToolBox=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -802,7 +809,7 @@
           "Melee","MeleeAttackDefault"
         ],
         "aUpdateCommands" : [
-          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+          "Destructable,StatDamage,ACTCassetteBDmg,StatDamageMax,1.0"
         ],
         "mapGUIPropMaps"  : [
         ],
@@ -827,10 +834,11 @@
           "Inventory",
           "DropItem",
           "PickupItem",
-          "ACTCassetteScrap"
+          "ACTCassetteBScrap"
         ],
         "aStartingConds" : [
           "IsCBox08=1.0x1.0",
+          "IsCassetteB=1.0x1.0",
           "IsToolBox=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -853,7 +861,7 @@
           "Melee","MeleeAttackDefault"
         ],
         "aUpdateCommands" : [
-          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+          "Destructable,StatDamage,ACTCassetteBDmg,StatDamageMax,1.0"
         ],
         "mapGUIPropMaps"  : [
         ],
@@ -878,10 +886,11 @@
           "Inventory",
           "DropItem",
           "PickupItem",
-          "ACTCassetteScrap"
+          "ACTCassetteBScrap"
         ],
         "aStartingConds" : [
           "IsCBox09=1.0x1.0",
+          "IsCassetteB=1.0x1.0",
           "IsToolBox=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
@@ -904,7 +913,7 @@
           "Melee","MeleeAttackDefault"
         ],
         "aUpdateCommands" : [
-          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+          "Destructable,StatDamage,ACTCassetteBDmg,StatDamageMax,1.0"
         ],
         "mapGUIPropMaps"  : [
         ],
@@ -916,6 +925,180 @@
           "drag", "Blank"
         ],
         "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCRack01",
+        "strNameShort" : "CRack",
+        "strItemDef" : "ItmCRack01",
+        "strNameFriendly" : "Cassette Rack 1x4",
+        "strDesc" : "A verticale serie of shelving, specialized in storing the Cassette serie of storage crate.",
+        "strType"    : "Item",
+        "aInteractions" : [
+          "Inventory"
+        ],
+        "aStartingConds" : [
+          "IsCassetteR=1.0x1.0",
+          "IsHiddenInv=1.0x1",
+          "IsInstalled=1.0x1",
+          "IsContainer=1.0x1",
+          "IsCumbersome=1.0x1.0",
+          "IsOversized=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x160",
+          "StatInstallProgressMax=1.0x250",
+          "StatUninstallProgressMax=1.0x250",
+          "StatMass=1.0x14.0",
+          "StatDamageMax=1.0x20",
+          "IsMechanical=1.0x1",
+          "IsRack=1.0x1",
+          "IsCategoryStorageFurniture=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassetteR",
+        "nContainerHeight"  : 3,
+        "nContainerWidth"  : 6,
+        "mapPoints"      : [
+          "use,16,0"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteRDamage,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : null,
+        "strPortraitImg"  : "ItmCRack01"
+      },
+      {
+        "strName" : "ItmCRack01Loose",
+        "strNameShort" : "CRackL",
+        "strItemDef" : "ItmCRack01Loose",
+        "strNameFriendly" : "Cassette Rack 1x4(Loose)",
+        "strDesc" : "A verticale serie of shelving, specialized in storing the Cassette serie of storage crate.",
+        "strType"    : "Item",
+        "aInteractions" : [
+          "DropItem",
+          "PickupItem"
+        ],
+        "aStartingConds" : [
+          "IsCassetteR=1.0x1.0",
+          "IsEdged=1.0x1.0",
+          "IsRigid=1.0x1",
+          "IsTough=1.0x1.0",
+          "IsContainer=1.0x1",
+          "IsSolid=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsOversized=1.0x1.0",
+          "StatBasePrice=1.0x1.00",
+          "StatDismantleProgressMax=1.0x160",
+          "StatInstallProgressMax=1.0x250",
+          "StatUninstallProgressMax=1.0x250",
+          "StatMass=1.0x28.0",
+          "StatDamageMax=1.0x20",
+          "IsMechanical=1.0x1",
+          "IsRack=1.0x1",
+          "IsCategoryStorageFurniture=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassetteR",
+        "nContainerHeight"  : 3,
+        "nContainerWidth"  : 6,
+        "mapPoints"      : [
+        ],
+        "mapSlotEffects" : [
+          "drag", "Blank"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteRLooseDamage,StatDamageMax,1.0"
+        ],
+        "strPortraitImg"  : "ItmCRack01Loose"
+      },
+      {
+        "strName" : "ItmCRack01Dmg",
+        "strNameShort" : "CRackD",
+        "strItemDef" : "ItmCRack01Dmg",
+        "strNameFriendly" : "Cassette Rack 1x4 (Damaged)",
+        "strDesc" : "A verticale serie of shelving, specialized in storing the Cassette serie of storage crate.",
+        "strType"    : "Item",
+        "aInteractions" : [
+          "ACTPryOpen"
+        ],
+        "aStartingConds" : [
+          "IsDamaged=1.0x1",
+          "IsCassetteR=1.0x1.0",
+          "IsEdged=1.0x1.0",
+          "IsRigid=1.0x1",
+          "IsTough=1.0x1.0",
+          "IsHiddenInv=1.0x1",
+          "IsInstalled=1.0x1",
+          "IsContainer=1.0x1",
+          "IsCumbersome=1.0x1.0",
+          "IsOversized=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "StatBasePrice=1.0x1.00",
+          "StatDismantleProgressMax=1.0x40",
+          "StatInstallProgressMax=1.0x250",
+          "StatUninstallProgressMax=1.0x250",
+          "StatRepairProgressMax=1.0x700",
+          "StatMass=1.0x29.0",
+          "StatDamageMax=1.0x45",
+          "IsMechanical=1.0x1",
+          "IsRack=1.0x1",
+          "IsCategoryStorageFurniture=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassetteR",
+        "nContainerHeight"  : 3,
+        "nContainerWidth"  : 6,
+        "mapPoints"      : [
+          "use,16,0"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteRDestroy,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : null,
+        "strPortraitImg"  : "ItmCRack01Dmg",
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmCRack01DmgLoose",
+        "strNameShort" : "CRackDL",
+        "strItemDef" : "ItmCRack01DmgLoose",
+        "strNameFriendly" : "Cassette Rack 1x4 (Damaged, Loose)",
+        "strDesc" : "A verticale serie of shelving, specialized in storing the Cassette serie of storage crate.",
+        "strType"    : "Item",
+        "aInteractions" : [
+          "DropItem",
+          "PickupItem"
+        ],
+        "aStartingConds" : [
+          "IsDamaged=1.0x1",
+          "IsCassetteR=1.0x1.0",
+          "IsEdged=1.0x1.0",
+          "IsRigid=1.0x1",
+          "IsTough=1.0x1.0",
+          "IsContainer=1.0x1",
+          "IsSolid=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsOversized=1.0x1.0",
+          "StatBasePrice=1.0x1.00",
+          "StatDismantleProgressMax=1.0x40",
+          "StatInstallProgressMax=1.0x250",
+          "StatUninstallProgressMax=1.0x250",
+          "StatRepairProgressMax=1.0x700",
+          "StatMass=1.0x28.0",
+          "StatDamageMax=1.0x45",
+          "IsMechanical=1.0x1",
+          "IsRack=1.0x1",
+          "IsCategoryStorageFurniture=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassetteR",
+        "nContainerHeight"  : 3,
+        "nContainerWidth"  : 6,
+        "mapPoints"      : [
+        ],
+        "mapSlotEffects" : [
+          "drag", "Blank"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteRDestroy,StatDamageMax,1.0"
+        ],
+        "strPortraitImg"  : "ItmCRack01DmgLoose"
       }
 
 ]

@@ -3,8 +3,8 @@
     "strName": "Cassette",
     "strAuthor": "Vervi",
     "strModURL": "https://bluebottlegames.com/games/ostranauts",
-    "strGameVersion": "0.12.0.8",
-    "strModVersion": "0.3",
+    "strGameVersion": "0.12.1.0",
+    "strModVersion": "0.5",
     "strNotes": "Add specialized storage box for spare part and scrap material"
   }
 ]

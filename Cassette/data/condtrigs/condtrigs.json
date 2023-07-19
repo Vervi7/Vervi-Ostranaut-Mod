@@ -16,5 +16,10 @@
     { "strName" : "TIsFitCBox06", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsSteel" ], "aForbids" : [ ], "aTriggers" : [ ], "bAND" : true },
     { "strName" : "TIsFitCBox07", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsAluminum" ], "aForbids" : [ ], "aTriggers" : [ ], "bAND" : true },
     { "strName" : "TIsFitCBox08", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggers" : [ "TIsPartsElecSmall" ], "bAND" : true },
-    { "strName" : "TIsFitCBox09", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggers" : [ "TIsPartsMechSmall" ], "bAND" : true }
+    { "strName" : "TIsFitCBox09", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggers" : [ "TIsPartsMechSmall" ], "bAND" : true },
+    { "strName" : "TIsFitCassetteR", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : ["IsCassetteB", "IsCassette" ], "aForbids" : [ ], "aTriggers" : [ ], "bAND" : false },
+    { "strName" : "TIsCassetteRUninstalled", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsCassetteR" ], "aForbids" : [ "IsInstalled", "IsDamaged" ], "aTriggers" : [ ], "bAND" : true },
+    { "strName" : "TIsCassetteRUninstalledDmg", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsCassetteR", "IsDamaged" ], "aForbids" : [ "IsInstalled" ], "aTriggers" : [ ], "bAND" : true },
+    { "strName" : "TIsCassetteRInstalled", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsCassetteR", "IsInstalled" ], "aForbids" : [  ], "aTriggers" : [ ], "bAND" : true },
+    { "strName" : "TIsCassetteRInstalledDmg", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsCassetteR", "IsInstalled", "IsDamaged" ], "aForbids" : [  ], "aTriggers" : [ ], "bAND" : true }
 ]

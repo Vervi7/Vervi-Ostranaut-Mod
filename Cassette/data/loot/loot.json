@@ -1,6 +1,11 @@
 [
     { "strName" : "ACTCassetteDmg", "aCOs" : [ "MSCassetteDmg=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
     { "strName" : "ACTCassetteScrap", "aCOs" : [ "MSCassetteScrap=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+    { "strName" : "ACTCassetteBDmg", "aCOs" : [ "MSCassetteBDmg=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+    { "strName" : "ACTCassetteBScrap", "aCOs" : [ "MSCassetteBScrap=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+    { "strName" : "ACTCassetteRDmg", "aCOs" : [ "MSCassetteRDmg=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+    { "strName" : "ACTCassetteRDmgLoose", "aCOs" : [ "MSCassetteRDmg=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+    { "strName" : "ACTCassetteRDestroy", "aCOs" : [ "MSCassetteRDestroy=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
     
       {
         "strName" : "ItmOKLGSupplyKioskInv",
@@ -92,7 +97,8 @@
           "ItmCBox06=1.00x10",
           "ItmCBox07=1.00x10",
           "ItmCBox08=1.00x10",
-          "ItmCBox09=1.00x10"
+          "ItmCBox09=1.00x10",
+          "ItmCRack01Loose=1.0x10"
         ],
         "strType" : "item"
       }
