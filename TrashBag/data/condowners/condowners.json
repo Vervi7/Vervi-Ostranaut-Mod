@@ -20,7 +20,7 @@
           "IsContainer=1.0x1.0",
           "IsSolid=1.0x1.0",
           "IsWaterproof=1.0x1.0",
-          "StatBasePrice=1.0x1.0",
+          "StatBasePrice=1.0x10.0",
           "StatDismantleProgressMax=1.0x10",
           "StatMass=1.0x0.50",
           "StatDamageMax=1.0x3",
