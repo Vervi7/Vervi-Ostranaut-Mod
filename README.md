@@ -1,1 +1,3 @@
-# Collection of mod for the game Ostranaut
+#Ostranaut modding
+
+Collection of mod for the game Ostranaut
