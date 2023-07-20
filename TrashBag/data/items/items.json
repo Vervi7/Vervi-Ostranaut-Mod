@@ -1,0 +1,46 @@
+[
+{
+    "strName" : "ItmTrashBag01",
+    "strImg"  : "ItmTrashBag01",
+    "strImgNorm"  : "TrashBag01n",
+    "strImgDamaged" : "",
+    "strDmgColor" : "DamageTintBlask",
+    "fZScale"  : 0.10,
+    "nCols"  : 1,
+    "aSocketAdds"    : [
+      "TILItemAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank",  
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank", "Blank", 
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ]  
+  },
+  {
+    "strName" : "ItmTrashBag01Full",
+    "strImg"  : "ItmTrashBag01Full",
+    "strImgNorm"  : "TrashBag01Fulln",
+    "strImgDamaged" : "",
+    "strDmgColor" : "DamageTintBlask",
+    "fZScale"  : 0.10,
+    "nCols"  : 1,
+    "aSocketAdds"    : [
+      "TILItemAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank",  
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank", "Blank", 
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ]  
+  }
+]

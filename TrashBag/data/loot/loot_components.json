@@ -1,0 +1,11 @@
+[
+    {
+        "strName" : "ItmTrashBag01Components",
+        "aCOs"    : [
+          "ItmTrash02=1.0x2"
+        ],
+        "aLoots"  : [
+        ],
+        "strType" : "item"
+      }
+]

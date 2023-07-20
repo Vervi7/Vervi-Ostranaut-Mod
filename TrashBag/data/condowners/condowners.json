@@ -1,0 +1,56 @@
+[
+    {
+        "strName" : "ItmTrashBag01",
+        "strNameShort" : "Trash Bag",
+        "strNameFriendly" : "Trash Bag",
+        "strDesc" : "A plastic bag.",
+        "strItemDef" : "ItmTrashBag01",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem"
+        ],
+        "aStartingConds" : [
+          "IsTrashBag=1.0x1.0",
+          "IsBurnable=1.0x1.0",
+          "IsFlexible=1.0x1.0",
+          "IsSheet=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x1.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x0.50",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitTrashBag01",
+        "nContainerHeight"   : 5,
+        "nContainerWidth"   : 5,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTTrashBagDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmTrashBag01",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapAltItemDefs"  : [
+          "IsSolid", "ItmTrashBag01Full"
+        ],
+        "mapSlotEffects" : [
+          "heldL","HeldTrashBag01FullL",
+          "heldR","HeldTrashBag01FullR",
+          "drag", "TrashBag01Full"
+        ],
+        "jsonPI"            : null
+      }
+]

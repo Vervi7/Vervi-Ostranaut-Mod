@@ -1,0 +1,3 @@
+[
+    { "strName" : "TIsFitTrashBag01", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsTrash" ], "aForbids" : [ ], "aTriggers" : [ ], "bAND" : true }
+]

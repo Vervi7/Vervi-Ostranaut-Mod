@@ -1,0 +1,12 @@
+[
+    {
+        "strName" : "MSTrashBag01Dmg",
+        "strTitle" : "",
+        "strDesc" : "[us] is destroyed.",
+        "fDuration"         : 0.0,
+        "strThemType"       : "Other",
+        "bIgnoreFeelings" : true,
+        "nLogging"         : 1,
+        "objLootModeSwitch"    : "ItmTrashBag01Components"
+      }
+]

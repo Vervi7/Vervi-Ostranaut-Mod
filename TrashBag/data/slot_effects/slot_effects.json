@@ -1,0 +1,13 @@
+[
+    {
+      "strName" : "TrashBag01Full",
+      "strSlotImage" : "ItmTrashBag01Med",
+      "strSlotImageUnder" : null,
+      "strIASlot" : null,
+      "strIAUnslot" : null,
+      "strIASlotParents" : null,
+      "strIAUnslotParents" : null,
+      "mapMeshTextures" : [
+      ]
+    }
+  ]

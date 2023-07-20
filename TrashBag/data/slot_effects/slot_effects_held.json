@@ -1,0 +1,24 @@
+[
+  {
+    "strName" : "HeldTrashBag01FullL",
+    "strSlotImage" : "ItmTrashBag01Med",
+    "strSlotImageUnder" : null,
+    "strIASlot" : null,
+    "strIAUnslot" : null,
+    "strIASlotParents" : "SLOTWieldDefaultL",
+    "strIAUnslotParents" : "UNSLOTWieldDefaultL",
+    "mapMeshTextures" : [
+    ]
+  },
+  {
+    "strName" : "HeldTrashBag01FullR",
+    "strSlotImage" : "ItmTrashBag01Med",
+    "strSlotImageUnder" : null,
+    "strIASlot" : null,
+    "strIAUnslot" : null,
+    "strIASlotParents" : "SLOTWieldDefaultR",
+    "strIAUnslotParents" : "UNSLOTWieldDefaultR",
+    "mapMeshTextures" : [
+    ]
+  }
+]
