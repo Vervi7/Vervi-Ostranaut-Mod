@@ -5,9 +5,9 @@ Collection of mod for the game Ostranaut
 
 
 ## Installation Instruction
--Copy the mod folder you want to install in the mod folder of the game. 
--edit the loading_order.json and add the name of the mod to the list.
--If you use more than one mod add the "VerviModCompatibility" at the end of the list.
+- Copy the mod folder you want to install in the mod folder of the game. 
+- edit the loading_order.json and add the name of the mod to the list. 
+- If you use more than one mod add the "VerviModCompatibility" at the end of the list.
 It will unified the Shop for all the item added to appear in game.
 
 Ex:
