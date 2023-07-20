@@ -1,1 +1,1 @@
-# General-Modding to be done
+# Collection of mod for the game Ostranaut
