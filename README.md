@@ -26,9 +26,12 @@ Ex:
 ## Cassette
 A collection of storage to organised your Scrap material and spare parts.
 
-- 9 Cassette Box with 8 slot
-- 9 Cassette with 8 slot can accept Cassette Box
-- 1 Rack with 18 slot can accept Cassette and Cassette Box
+- 9 Cassette Box with 8 slot.
+- 9 Cassette with 8 slot can accept Cassette Box.
+- 1 Rack with 18 slot can accept Cassette and Cassette Box.
 
 ## Trash Bag
 A simple plastic bag that only accept trash. Very cheap, perfect for jettisoning large amount of trash in one go.
+
+## VerviModCompatibility
+Make the item from my mod appear in the scrapkyosk in OKLG.
