@@ -35,7 +35,7 @@ A collection of storage to organised your Scrap material and spare parts.
 A simple plastic bag that only accept trash. Very cheap, perfect for jettisoning large amount of trash in one go.
 
 ## Derelict Spread
-Create 6 new ring of derelict in a 10k kilometer radius around OKLG
+Create 6 new ring of derelict in a 10k kilometer radius around OKLG.
 Max derelict: Modded 280, Vanilla 60
 - ring 1: 100 to 200 km 15 ship
 - ring 2: 400 to 600 km 20 ship
