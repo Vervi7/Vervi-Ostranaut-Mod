@@ -36,3 +36,6 @@ A simple plastic bag that only accept trash. Very cheap, perfect for jettisoning
 
 ## VerviModCompatibility
 Make the item from my mod if more than one is added, to appear in the scrapkyosk in OKLG.
+
+## Derelict Spread
+Create 6 new ring of derelict in a 10k kilometer radius around OKLG
