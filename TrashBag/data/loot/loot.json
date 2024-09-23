@@ -33,7 +33,7 @@
         "ItmRandomDamagedParts=1.0x1-5",      
         "ItmRandomFloor=1.0x24-40",
         "ItmRandomWall=1.0x12-20",
-        "ItmTrashBag01=1.0x20"
+        "ItmTrashBag01=1.0x20",
       ],
       "strType" : "item"
     }
