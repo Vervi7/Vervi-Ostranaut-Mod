@@ -21,8 +21,7 @@ Ex:
   "aLoadOrder" : [
   "core",
   "TrashBag",
-  "Cassette"
-  ]
+  "Cassette"]
  }
 ]
 
