@@ -27,8 +27,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassette01",
-        "nContainerHeight"   : 2,
-        "nContainerWidth"   : 4,
+        "nContainerHeight"   : 6,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -78,8 +78,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassette02",
-        "nContainerHeight"   : 2,
-        "nContainerWidth"   : 4,
+        "nContainerHeight"   : 3,
+        "nContainerWidth"   : 6,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -129,8 +129,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassette03",
-        "nContainerHeight"   : 2,
-        "nContainerWidth"   : 4,
+        "nContainerHeight"   : 6,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -180,8 +180,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassette04",
-        "nContainerHeight"   : 2,
-        "nContainerWidth"   : 4,
+        "nContainerHeight"   : 6,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -231,8 +231,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassette05",
-        "nContainerHeight"   : 2,
-        "nContainerWidth"   : 4,
+        "nContainerHeight"   : 6,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -282,8 +282,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassette06",
-        "nContainerHeight"   : 2,
-        "nContainerWidth"   : 4,
+        "nContainerHeight"   : 6,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -333,8 +333,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassette07",
-        "nContainerHeight"   : 2,
-        "nContainerWidth"   : 4,
+        "nContainerHeight"   : 6,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -384,8 +384,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassette08",
-        "nContainerHeight"   : 2,
-        "nContainerWidth"   : 4,
+        "nContainerHeight"   : 6,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -435,8 +435,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassette09",
-        "nContainerHeight"   : 2,
-        "nContainerWidth"   : 4,
+        "nContainerHeight"   : 6,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -475,7 +475,7 @@
         "aStartingConds" : [
           "IsCBox01=1.0x1.0",
           "IsCassetteB=1.0x1.0",
-          "IsToolBox=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -487,8 +487,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCBox01",
-        "nContainerHeight"   : 4,
-        "nContainerWidth"   : 2,
+        "nContainerHeight"   : 3,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -527,7 +527,7 @@
         "aStartingConds" : [
           "IsCBox02=1.0x1.0",
           "IsCassetteB=1.0x1.0",
-          "IsToolBox=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -539,8 +539,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCBox02",
-        "nContainerHeight"   : 4,
-        "nContainerWidth"   : 2,
+        "nContainerHeight"   : 3,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -579,7 +579,7 @@
         "aStartingConds" : [
           "IsCBox03=1.0x1.0",
           "IsCassetteB=1.0x1.0",
-          "IsToolBox=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -591,8 +591,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCBox03",
-        "nContainerHeight"   : 4,
-        "nContainerWidth"   : 2,
+        "nContainerHeight"   : 3,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -631,7 +631,7 @@
         "aStartingConds" : [
           "IsCBox04=1.0x1.0",
           "IsCassetteB=1.0x1.0",
-          "IsToolBox=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -643,8 +643,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCBox04",
-        "nContainerHeight"   : 4,
-        "nContainerWidth"   : 2,
+        "nContainerHeight"   : 3,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -683,7 +683,7 @@
         "aStartingConds" : [
           "IsCBox05=1.0x1.0",
           "IsCassetteB=1.0x1.0",
-          "IsToolBox=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -695,8 +695,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCBox05",
-        "nContainerHeight"   : 4,
-        "nContainerWidth"   : 2,
+        "nContainerHeight"   : 3,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -735,7 +735,7 @@
         "aStartingConds" : [
           "IsCBox06=1.0x1.0",
           "IsCassetteB=1.0x1.0",
-          "IsToolBox=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -747,8 +747,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCBox06",
-        "nContainerHeight"   : 4,
-        "nContainerWidth"   : 2,
+        "nContainerHeight"   : 3,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -787,7 +787,7 @@
         "aStartingConds" : [
           "IsCBox07=1.0x1.0",
           "IsCassetteB=1.0x1.0",
-          "IsToolBox=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -799,8 +799,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCBox07",
-        "nContainerHeight"   : 4,
-        "nContainerWidth"   : 2,
+        "nContainerHeight"   : 3,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -839,7 +839,7 @@
         "aStartingConds" : [
           "IsCBox08=1.0x1.0",
           "IsCassetteB=1.0x1.0",
-          "IsToolBox=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -851,8 +851,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCBox08",
-        "nContainerHeight"   : 4,
-        "nContainerWidth"   : 2,
+        "nContainerHeight"   : 3,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -891,7 +891,7 @@
         "aStartingConds" : [
           "IsCBox09=1.0x1.0",
           "IsCassetteB=1.0x1.0",
-          "IsToolBox=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
           "IsContainer=1.0x1.0",
           "IsRigid=1.0x1.0",
           "IsSolid=1.0x1.0",
@@ -903,8 +903,8 @@
           "IsCategoryMobileStorage=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCBox09",
-        "nContainerHeight"   : 4,
-        "nContainerWidth"   : 2,
+        "nContainerHeight"   : 3,
+        "nContainerWidth"   : 3,
         "mapCondTolerance"       : [
         ],
         "mapPoints"      : [
@@ -944,7 +944,7 @@
           "IsCumbersome=1.0x1.0",
           "IsOversized=1.0x1.0",
           "IsSolid=1.0x1.0",
-          "StatBasePrice=1.0x5000.0",
+          "StatBasePrice=1.0x10000.0",
           "StatDismantleProgressMax=1.0x160",
           "StatInstallProgressMax=1.0x250",
           "StatUninstallProgressMax=1.0x250",
@@ -986,7 +986,7 @@
           "IsSolid=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsOversized=1.0x1.0",
-          "StatBasePrice=1.0x1.00",
+          "StatBasePrice=1.0x10000.00",
           "StatDismantleProgressMax=1.0x160",
           "StatInstallProgressMax=1.0x250",
           "StatUninstallProgressMax=1.0x250",
@@ -1031,7 +1031,7 @@
           "IsCumbersome=1.0x1.0",
           "IsOversized=1.0x1.0",
           "IsSolid=1.0x1.0",
-          "StatBasePrice=1.0x1.00",
+          "StatBasePrice=1.0x10000.00",
           "StatDismantleProgressMax=1.0x40",
           "StatInstallProgressMax=1.0x250",
           "StatUninstallProgressMax=1.0x250",
@@ -1076,7 +1076,7 @@
           "IsSolid=1.0x1.0",
           "IsCumbersome=1.0x1.0",
           "IsOversized=1.0x1.0",
-          "StatBasePrice=1.0x1.00",
+          "StatBasePrice=1.0x10000.00",
           "StatDismantleProgressMax=1.0x40",
           "StatInstallProgressMax=1.0x250",
           "StatUninstallProgressMax=1.0x250",
