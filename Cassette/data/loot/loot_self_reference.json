@@ -20,5 +20,9 @@
     { "strName" : "ItmCRack01", "aCOs" : [ "ItmCRack01=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
     { "strName" : "ItmCRack01Loose", "aCOs" : [ "ItmCRack01Loose=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
     { "strName" : "ItmCRack01Dmg", "aCOs" : [ "ItmCRack01Dmg=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
-    { "strName" : "ItmCRack01DmgLoose", "aCOs" : [ "ItmCRack01DmgLoose=1.0x1" ], "aLoots" : [ ], "strType" : "item" }
+    { "strName" : "ItmCRack01DmgLoose", "aCOs" : [ "ItmCRack01DmgLoose=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCRack02", "aCOs" : [ "ItmCRack02=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCRack02Loose", "aCOs" : [ "ItmCRack02Loose=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCRack02Dmg", "aCOs" : [ "ItmCRack02Dmg=1.0x1" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCRack02DmgLoose", "aCOs" : [ "ItmCRack02DmgLoose=1.0x1" ], "aLoots" : [ ], "strType" : "item" }
 ]

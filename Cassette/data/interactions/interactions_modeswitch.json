@@ -110,5 +110,49 @@
         ],
         "objLootModeSwitch"    : "ItmCassetteRComponents",
         "bModeSwitchCheckFit" : true
+      },
+      {
+        "strName" : "MSSmallCassetteRDmg",
+        "strTitle" : "",
+        "strDesc" : "[us] is destroyed.",
+        "fDuration"         : 0.0,
+        "strThemType"       : "Other",
+        "bIgnoreFeelings" : true,
+        "nLogging"         : 1,
+        "objLootModeSwitch"    : "ItmCRack02Dmg"
+      },
+      {
+        "strName" : "MSSmallCassetteRDmgLoose",
+        "strTitle" : "",
+        "strDesc" : "[us] is destroyed.",
+        "fDuration"         : 0.0,
+        "strThemType"       : "Other",
+        "bIgnoreFeelings" : true,
+        "nLogging"         : 1,
+        "objLootModeSwitch"    : "ItmCRack02DmgLoose"
+      },
+      {
+        "strName" : "MSSmallCassetteRDestroy",
+        "strTitle" : "",
+        "strDesc" : "[us] is destroyed.",
+        "strTargetPoint" : null,
+        "fTargetPointRange" : 0,
+        "strAnim"           : null,
+        "strBubble"         : null,
+        "aInverse"          : [
+        ],
+        "fDuration"         : 0.0,
+        "strThemType"       : "Other",
+        "bIgnoreFeelings" : true,
+        "strRaiseUI"        : null,
+        "nLogging"         : 1,
+        "LootCTsUs"       : null,
+        "LootCTsThem"     : null,
+        "CTTestUs"           : null,
+        "CTTestThem"         : null,
+        "aLootItms"       : [
+        ],
+        "objLootModeSwitch"    : "ItmCassetteRComponents",
+        "bModeSwitchCheckFit" : true
       }
 ]

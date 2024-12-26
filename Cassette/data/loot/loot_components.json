@@ -2,5 +2,7 @@
     { "strName" : "ItmCassetteComponents", "aCOs" : [ "ItmScrapCarbonFiber=1.0x5" ], "aLoots" : [ ], "strType" : "item" },
     { "strName" : "ItmCassetteBComponents", "aCOs" : [ "ItmScrapCarbonFiber=1.0x2" ], "aLoots" : [ ], "strType" : "item" },
     { "strName" : "ItmCassetteRComponents", "aCOs" : [ "ItmScrapCarbonFiber=1.0x6", "ItmScrapTrash=1.0x4" ], "aLoots" : [ ], "strType" : "item" },
-    { "strName" : "ItmCRack01Dismantle", "aCOs" : [ "ItmPartsMechSmall01=1.0x2", "ItmScrapCarbonFiber=1.0x8", "ItmScrapTrash=1.0x2" ], "aLoots" : [ ], "strType" : "item" }
+    { "strName" : "ItmCRack01Dismantle", "aCOs" : [ "ItmPartsMechSmall01=1.0x2", "ItmScrapCarbonFiber=1.0x8", "ItmScrapTrash=1.0x2" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmSmallCassetteRComponents", "aCOs" : [ "ItmScrapCarbonFiber=1.0x3", "ItmScrapTrash=1.0x2" ], "aLoots" : [ ], "strType" : "item" },
+    { "strName" : "ItmCRack02Dismantle", "aCOs" : [ "ItmPartsMechSmall01=1.0x1", "ItmScrapCarbonFiber=1.0x4", "ItmScrapTrash=1.0x1" ], "aLoots" : [ ], "strType" : "item" }
 ]
