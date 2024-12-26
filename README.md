@@ -30,9 +30,14 @@ Ex:
 ## Cassette
 A collection of storage to organised your Scrap material and spare parts.
 
-- 9 Cassette Box with 9 slot.
-- 9 Cassette with 18.
-- 1 Rack with 18 slot can accept Cassette and Cassette Box.
+   -1 Small Rack (installable)
+    size: 1x2 slot count: 9 accept "Cassette" and "CassetteBox".
+   -1 Rack (installable)
+    size: 1x4 slot count: 18 accept "Cassette" and "CassetteBox".
+   -9 Cassette
+    size: 1x2 slot count: 18 accept spare parts and scrap material.
+   -9 CassetteBox
+    size: 1x1 slot count: 9 accept spare parts and scrap material.
 
 ## Trash Bag
 A simple plastic bag that only accept trash. Very cheap, perfect for jettisoning large amount of trash in one go.
