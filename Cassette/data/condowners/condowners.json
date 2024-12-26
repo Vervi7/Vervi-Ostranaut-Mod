@@ -958,7 +958,7 @@
         "nContainerHeight"  : 3,
         "nContainerWidth"  : 6,
         "mapPoints"      : [
-          "use,16,0"
+          "use,0,-16"
         ],
         "aUpdateCommands" : [
           "Destructable,StatDamage,ACTCassetteRDamage,StatDamageMax,1.0"
@@ -1046,7 +1046,7 @@
         "nContainerHeight"  : 3,
         "nContainerWidth"  : 6,
         "mapPoints"      : [
-          "use,16,0"
+          "use,0,-16"
         ],
         "aUpdateCommands" : [
           "Destructable,StatDamage,ACTCassetteRDestroy,StatDamageMax,1.0"
@@ -1132,7 +1132,7 @@
         "nContainerHeight"  : 3,
         "nContainerWidth"  : 3,
         "mapPoints"      : [
-          "use,16,0"
+          "use,0,-16"
         ],
         "aUpdateCommands" : [
           "Destructable,StatDamage,ACTSmallCassetteRDamage,StatDamageMax,1.0"
@@ -1220,7 +1220,7 @@
         "nContainerHeight"  : 3,
         "nContainerWidth"  : 3,
         "mapPoints"      : [
-          "use,16,0"
+          "use,0,-16"
         ],
         "aUpdateCommands" : [
           "Destructable,StatDamage,ACSmallTCassetteRDestroy,StatDamageMax,1.0"
