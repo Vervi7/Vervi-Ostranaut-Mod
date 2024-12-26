@@ -411,7 +411,7 @@
     "strImgNorm"  : "ItmCRack01n",
     "strImgDamaged" : "ItmCRack01Dmg",
     "strDmgColor" : "DamageTintGrey",
-    "nCols"  : 1,
+    "nCols"  : 4,
     "aSocketAdds"    : [
       "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"
     ],
@@ -433,13 +433,14 @@
     "strImgDamaged" : "ItmCRack01DmgLoose",
     "strDmgColor" : "DamageTintNone",
     "fZScale"  : 0.5,
-    "nCols"  : 1,
+    "nCols"  : 4,
     "aSocketAdds"    : [
       "TILItemAdds", "TILItemAdds", "TILItemAdds", "TILItemAdds"
     ],
     "aSocketForbids"    : [
       "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
-      "Blank", "TILItemForbids", "TILItemForbids", "TILItemForbids", "TILItemForbids", "Blank"
+      "Blank", "TILItemForbids", "TILItemForbids", "TILItemForbids", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"
     ],
     "aSocketReqs"    : [
       "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
@@ -453,7 +454,7 @@
     "strImgNorm"  : "ItmCRack01Dmgn",
     "strImgDamaged" : "",
     "strDmgColor" : "DamageTintRust",
-    "nCols"  : 1,
+    "nCols"  : 4,
     "aSocketAdds"    : [
       "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"
 
@@ -476,14 +477,15 @@
     "strImgDamaged" : "",
     "strDmgColor" : "DamageTintRust",
     "fZScale"  : 0.5,
-    "nCols"  : 1,
+    "nCols"  : 4,
     "aSocketAdds"    : [
       "TILItemAdds", "TILItemAdds", "TILItemAdds", "TILItemAdds"
 
     ],
     "aSocketForbids"    : [
       "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
-      "Blank", "TILItemForbids", "TILItemForbids", "TILItemForbids", "TILItemForbids", "Blank"
+      "Blank", "TILItemForbids", "TILItemForbids", "TILItemForbids", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"
     ],
     "aSocketReqs"    : [
       "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
@@ -497,7 +499,7 @@
     "strImgNorm"  : "ItmCRack02n",
     "strImgDamaged" : "ItmCRack02Dmg",
     "strDmgColor" : "DamageTintGrey",
-    "nCols"  : 1,
+    "nCols"  : 2,
     "aSocketAdds"    : [
       "TILFixtureAdds", "TILFixtureAdds"
     ],
@@ -519,7 +521,7 @@
     "strImgDamaged" : "ItmCRack02DmgLoose",
     "strDmgColor" : "DamageTintNone",
     "fZScale"  : 0.5,
-    "nCols"  : 1,
+    "nCols"  : 2,
     "aSocketAdds"    : [
       "TILItemAdds", "TILItemAdds"
     ],
@@ -540,7 +542,7 @@
     "strImgNorm"  : "ItmCRack02Dmgn",
     "strImgDamaged" : "",
     "strDmgColor" : "DamageTintRust",
-    "nCols"  : 1,
+    "nCols"  : 2,
     "aSocketAdds"    : [
       "TILFixtureAdds", "TILFixtureAdds"
     ],
@@ -562,7 +564,7 @@
     "strImgDamaged" : "",
     "strDmgColor" : "DamageTintRust",
     "fZScale"  : 0.5,
-    "nCols"  : 1,
+    "nCols"  : 2,
     "aSocketAdds"    : [
       "TILItemAdds", "TILItemAdds"
     ],
