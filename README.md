@@ -36,7 +36,7 @@ A collection of storage to organised your Scrap material and spare parts.
     size: 1x4 slot count: 18 accept "Cassette" and "CassetteBox".
    -9 Cassette
     size: 1x2 slot count: 18 accept spare parts and scrap material.
-   -9 CassetteBox
+   -9 Coffer
     size: 1x1 slot count: 9 accept spare parts and scrap material.
 
 ## Trash Bag
