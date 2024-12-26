@@ -413,26 +413,17 @@
     "strDmgColor" : "DamageTintGrey",
     "nCols"  : 1,
     "aSocketAdds"    : [
-      "TILFixtureAdds",
-      "TILFixtureAdds",
-      "TILFixtureAdds",
-      "TILFixtureAdds"
+      "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "TILObstruction", "TILObstruction", "Blank"
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILFloor", "TILFloor", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "TILFloor", "TILFloor", "Blank"
     ]
   },
   {
@@ -444,26 +435,16 @@
     "fZScale"  : 0.5,
     "nCols"  : 1,
     "aSocketAdds"    : [
-      "TILItemAdds",
-      "TILItemAdds",
-      "TILItemAdds",
-      "TILItemAdds"
+      "TILItemAdds", "TILItemAdds", "TILItemAdds", "TILItemAdds"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "TILItemForbids", "TILItemForbids", "TILItemForbids", "Blank"
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"
     ]
   },
   {
@@ -474,26 +455,18 @@
     "strDmgColor" : "DamageTintRust",
     "nCols"  : 1,
     "aSocketAdds"    : [
-      "TILFixtureAdds",
-      "TILFixtureAdds",
-      "TILFixtureAdds",
-      "TILFixtureAdds"
+      "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds", "TILFixtureAdds"
+
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "TILObstruction", "TILObstruction", "Blank"
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILFloor", "TILFloor", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "TILFloor", "TILFloor", "Blank"
     ]
   },
   {
@@ -505,26 +478,17 @@
     "fZScale"  : 0.5,
     "nCols"  : 1,
     "aSocketAdds"    : [
-      "TILItemAdds",
-      "TILItemAdds",
-      "TILItemAdds",
-      "TILItemAdds"
+      "TILItemAdds", "TILItemAdds", "TILItemAdds", "TILItemAdds"
+
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "TILItemForbids", "TILItemForbids", "TILItemForbids", "Blank"
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"
     ]
   },
   {
@@ -535,20 +499,17 @@
     "strDmgColor" : "DamageTintGrey",
     "nCols"  : 1,
     "aSocketAdds"    : [
-      "TILFixtureAdds",
-      "TILFixtureAdds"
+      "TILFixtureAdds", "TILFixtureAdds"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank"
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank"
     ]
   },
   {
@@ -560,20 +521,17 @@
     "fZScale"  : 0.5,
     "nCols"  : 1,
     "aSocketAdds"    : [
-      "TILItemAdds",
-      "TILItemAdds"
+      "TILItemAdds", "TILItemAdds"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "TILItemForbids", "Blank",
+      "Blank",  "Blank", "Blank", "Blank"
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", 
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
     ]
   },
   {
@@ -584,20 +542,17 @@
     "strDmgColor" : "DamageTintRust",
     "nCols"  : 1,
     "aSocketAdds"    : [
-      "TILFixtureAdds",
-      "TILFixtureAdds"
+      "TILFixtureAdds", "TILFixtureAdds"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "TILObstruction", "TILObstruction",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank"
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "TILFloor", "TILFloor",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank"
     ]
   },
   {
@@ -609,20 +564,18 @@
     "fZScale"  : 0.5,
     "nCols"  : 1,
     "aSocketAdds"    : [
-      "TILItemAdds",
-      "TILItemAdds"
+      "TILItemAdds", "TILItemAdds"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "TILItemForbids", "Blank",
+      "Blank",  "Blank", "Blank", "Blank"
+
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", 
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
     ]
   }
 ]
