@@ -41,7 +41,7 @@ A collection of storage to organised your Scrap material and spare parts. Availa
     Slot Count: 32  Accept: spare parts and scrap material.
   
 - 9 Coffer 1x1 ![Coffer](Cassette/images/ItmCBox02.png)  
-    Slot Count: 2  Accept: spare parts and scrap material.
+    Slot Count: 16 Accept: spare parts and scrap material.
 
 ## Trash Bag
 A simple plastic bag that only accept trash. Very cheap, perfect for jettisoning large amount of trash in one go.
