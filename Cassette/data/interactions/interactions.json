@@ -1,0 +1,174 @@
+[
+    {
+        "strName" : "ACTCassetteScrap",
+        "strTitle" : "Cut Open",
+        "strDesc" : "[us] is going to cut open [them].",
+        "strTooltip" : "Destroys container to access its contents.",
+        "strActionGroup" : "Work",
+        "strTargetPoint" : "use",
+        "fTargetPointRange" : 1,
+        "strDuty"           : "Construct",
+        "strUseCase"        : "Normal",
+        "strAnim"           : "Tooling",
+        "strIdleAnim"       : "Tooling",
+        "strBubble"         : "BblTouch",
+        "strMapIcon"        : "IcoScrap",
+        "aInverse"          : [
+          "ACTCassetteScrapAllow,[us],[them]"
+        ],
+        "fDuration"         : 0.000027,
+        "strThemType"       : "Other",
+        "nLogging"         : 1,
+        "bHumanOnly"  :true,
+        "bOpener"     : true,
+        "bIgnoreFeelings" : true,
+        "LootCTsUs"       : "CTToolSparkOn",
+        "LootCTsThem"     : null,
+        "strCrime"       : "damage",
+        "CTTestUs"           : null,
+        "CTTestThem"         : "TIsCassette",
+        "aLootItms"           : [
+          "addus,SocialShareAnotherStory",
+          "Use,CTToolStructureCutter,true,"
+        ]
+      },
+      {
+        "strName" : "ACTCassetteScrapAllow",
+        "strTitle" : "Cut Open Cassette",
+        "strDesc" : "[us] cuts [them] open.",
+        "strActionGroup" : "Work",
+        "strTargetPoint" : null,
+        "fTargetPointRange" : 1,
+        "strAnim"           : "Tooling",
+        "strIdleAnim"       : "Idle",
+        "strUseCase"        : "Normal",
+        "strBubble"         : "BblTouch",
+        "aInverse"          : [
+          "ACTCassetteScrapFinish,[us],[them]"
+        ],
+        "fDuration"         : 0.001,
+        "strThemType"       : "Other",
+        "nLogging"         : 1,
+        "bIgnoreFeelings" : true,
+        "LootCTsUs"     : "CTACTScrap",
+        "LootCTsThem"     : null,
+        "strCrime"       : "damage",
+        "CTTestUs"           : null,
+        "CTTestThem"         : null,
+        "aLootItms"       : [
+        ],
+        "objLootModeSwitch"    : null
+      },
+      {
+        "strName" : "ACTCassetteScrapFinish",
+        "strTitle" : "Finish Cutting Open Cassette",
+        "strDesc" : "[us] finishes cutting [them] open.",
+        "strActionGroup" : "Work",
+        "strTargetPoint" : null,
+        "fTargetPointRange" : 1,
+        "strAnim"           : "Idle",
+        "strIdleAnim"       : "Idle",
+        "strUseCase"        : "Normal",
+        "strBubble"         : "BblTouch",
+        "aInverse"          : [
+          "MSCassetteDestroy"
+        ],
+        "fDuration"         : 0.0,
+        "bIgnoreFeelings" : true,
+        "strThemType"       : "Other",
+        "LootCTsUs"     : "CTToolSparkOff",
+        "LootCTsThem"     : null,
+        "strCrime"       : "damage",
+        "CTTestUs"           : null,
+        "CTTestThem"         : null,
+        "aLootItms"       : [
+        ],
+        "objLootModeSwitch"    : null
+      },
+      {
+        "strName" : "ACTCassetteBScrap",
+        "strTitle" : "Cut Open",
+        "strDesc" : "[us] is going to cut open [them].",
+        "strTooltip" : "Destroys container to access its contents.",
+        "strActionGroup" : "Work",
+        "strTargetPoint" : "use",
+        "fTargetPointRange" : 1,
+        "strDuty"           : "Construct",
+        "strUseCase"        : "Normal",
+        "strAnim"           : "Tooling",
+        "strIdleAnim"       : "Tooling",
+        "strBubble"         : "BblTouch",
+        "strMapIcon"        : "IcoScrap",
+        "aInverse"          : [
+          "ACTCassetteBScrapAllow,[us],[them]"
+        ],
+        "fDuration"         : 0.000027,
+        "strThemType"       : "Other",
+        "nLogging"         : 1,
+        "bHumanOnly"  :true,
+        "bOpener"     : true,
+        "bIgnoreFeelings" : true,
+        "LootCTsUs"       : "CTToolSparkOn",
+        "LootCTsThem"     : null,
+        "strCrime"       : "damage",
+        "CTTestUs"           : null,
+        "CTTestThem"         : "TIsCassetteB",
+        "aLootItms"           : [
+          "addus,SocialShareAnotherStory",
+          "Use,CTToolStructureCutter,true,"
+        ]
+      },
+      {
+        "strName" : "ACTCassetteBScrapAllow",
+        "strTitle" : "Cut Open Cassette",
+        "strDesc" : "[us] cuts [them] open.",
+        "strActionGroup" : "Work",
+        "strTargetPoint" : null,
+        "fTargetPointRange" : 1,
+        "strAnim"           : "Tooling",
+        "strIdleAnim"       : "Idle",
+        "strUseCase"        : "Normal",
+        "strBubble"         : "BblTouch",
+        "aInverse"          : [
+          "ACTCassetteBScrapFinish,[us],[them]"
+        ],
+        "fDuration"         : 0.001,
+        "strThemType"       : "Other",
+        "nLogging"         : 1,
+        "bIgnoreFeelings" : true,
+        "LootCTsUs"     : "CTACTScrap",
+        "LootCTsThem"     : null,
+        "strCrime"       : "damage",
+        "CTTestUs"           : null,
+        "CTTestThem"         : null,
+        "aLootItms"       : [
+        ],
+        "objLootModeSwitch"    : null
+      },
+      {
+        "strName" : "ACTCassetteBScrapFinish",
+        "strTitle" : "Finish Cutting Open Cassette Box",
+        "strDesc" : "[us] finishes cutting [them] open.",
+        "strActionGroup" : "Work",
+        "strTargetPoint" : null,
+        "fTargetPointRange" : 1,
+        "strAnim"           : "Idle",
+        "strIdleAnim"       : "Idle",
+        "strUseCase"        : "Normal",
+        "strBubble"         : "BblTouch",
+        "aInverse"          : [
+          "MSCassetteBDestroy"
+        ],
+        "fDuration"         : 0.0,
+        "bIgnoreFeelings" : true,
+        "strThemType"       : "Other",
+        "LootCTsUs"     : "CTToolSparkOff",
+        "LootCTsThem"     : null,
+        "strCrime"       : "damage",
+        "CTTestUs"           : null,
+        "CTTestThem"         : null,
+        "aLootItms"       : [
+        ],
+        "objLootModeSwitch"    : null
+      }
+]
