@@ -19,7 +19,7 @@
     { "strName" : "TIsFitCBox08", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggers" : [ "TIsPartsElecSmall" ], "bAND" : true },
     { "strName" : "TIsFitCBox09", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggers" : [ "TIsPartsMechSmall" ], "bAND" : true },
     { "strName" : "TIsFitCBox10", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ ], "aForbids" : [ ], "aTriggers" : [ "TIsScrapSheet" ], "bAND" : true },
-    { "strName" : "TIsFitCassetteR", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : ["IsCassetteB", "IsCassette", "IsMobo", "IsMotor", "IsHeatSink", "IsScreen", "IsCarbonFiber", "IsSteel", "IsAluminum"  ], "aForbids" : [ ], "aTriggers" : [ "TIsPartsElecSmall", "TIsPartsMechSmall" ], "bAND" : false },
+    { "strName" : "TIsFitCassetteR", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : ["IsCassetteB", "IsCassette", "IsMobo", "IsMotor", "IsHeatSink", "IsScreen", "IsCarbonFiber", "IsSteel", "IsAluminum"  ], "aForbids" : [ ], "aTriggers" : [ "TIsPartsElecSmall", "TIsPartsMechSmall", "TIsScrapSheet" ], "bAND" : false },
     { "strName" : "TIsScrapSheet", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsSheet", "IsScrap" ], "aForbids" : [ ], "aTriggers" : [ ], "bAND" : true },
     { "strName" : "TIsCassetteRUninstalled", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsCassetteR" ], "aForbids" : [ "IsInstalled", "IsDamaged" ], "aTriggers" : [ ], "bAND" : true },
     { "strName" : "TIsCassetteRUninstalledDmg", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsCassetteR", "IsDamaged" ], "aForbids" : [ "IsInstalled" ], "aTriggers" : [ ], "bAND" : true },
