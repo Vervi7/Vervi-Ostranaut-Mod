@@ -459,6 +459,57 @@
         "jsonPI"            : null
       },
       {
+        "strName" : "ItmCassette10",
+        "strNameShort" : "SC-Cassette",
+        "strNameFriendly" : "Scrap Cloth \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene case, specialized in storing Scrap Cloth. Lightweight and durable.",
+        "strItemDef" : "ItmCassette10",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteScrap"
+        ],
+        "aStartingConds" : [
+          "IsCassette=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x750.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCassette10",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 8,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCassette10",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
         "strName" : "ItmCBox01",
         "strNameShort" : "MB-Coffer",
         "strNameFriendly" : "Motherboard \"Coffer\" Storage Box",
@@ -927,6 +978,58 @@
         "jsonPI"            : null
       },
       {
+        "strName" : "ItmCBox10",
+        "strNameShort" : "SC-CBox",
+        "strNameFriendly" : "Scrap Cloth \"Coffer\" Storage Box",
+        "strDesc" : "A graphene box, specialized in storing Scrap Cloth. Lightweight and durable.",
+        "strItemDef" : "ItmCBox10",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "Inventory",
+          "DropItem",
+          "PickupItem",
+          "ACTCassetteBScrap"
+        ],
+        "aStartingConds" : [
+          "IsCBox10=1.0x1.0",
+          "IsCassetteB=1.0x1.0",
+          "IsCumbersome=1.0x1.0",
+          "IsContainer=1.0x1.0",
+          "IsRigid=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsWaterproof=1.0x1.0",
+          "StatBasePrice=1.0x500.0",
+          "StatDismantleProgressMax=1.0x10",
+          "StatMass=1.0x5.0",
+          "StatDamageMax=1.0x3",
+          "IsCategoryMobileStorage=1.0x1"
+        ],
+        "strContainerCT"    : "TIsFitCBox10",
+        "nContainerHeight"   : 4,
+        "nContainerWidth"   : 4,
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "mapChargeProfiles"  : [
+          "Melee","MeleeAttackDefault"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTCassetteBDmg,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : [
+        ],
+        "strPortraitImg"  : "ItmCBox10",
+        "strAudioEmitter" : "ItmPlasticBoxSound",
+        "mapSlotEffects" : [
+          "heldL","HeldItmDefaultL",
+          "heldR","HeldItmDefaultR",
+          "drag", "Blank"
+        ],
+        "jsonPI"            : null
+      },
+      {
         "strName" : "ItmCRack01",
         "strNameShort" : "CRack",
         "strItemDef" : "ItmCRack01",
@@ -955,8 +1058,8 @@
           "IsCategoryStorageFurniture=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassetteR",
-        "nContainerHeight"  : 3,
-        "nContainerWidth"  : 6,
+        "nContainerHeight"  : 5,
+        "nContainerWidth"  : 4,
         "mapPoints"      : [
           "use,0,-16"
         ],
@@ -997,8 +1100,8 @@
           "IsCategoryStorageFurniture=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassetteR",
-        "nContainerHeight"  : 3,
-        "nContainerWidth"  : 6,
+        "nContainerHeight"  : 5,
+        "nContainerWidth"  : 4,
         "mapPoints"      : [
         ],
         "mapSlotEffects" : [
@@ -1043,8 +1146,8 @@
           "IsCategoryStorageFurniture=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassetteR",
-        "nContainerHeight"  : 3,
-        "nContainerWidth"  : 6,
+        "nContainerHeight"  : 5,
+        "nContainerWidth"  : 4,
         "mapPoints"      : [
           "use,0,-16"
         ],
@@ -1088,8 +1191,8 @@
           "IsCategoryStorageFurniture=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassetteR",
-        "nContainerHeight"  : 3,
-        "nContainerWidth"  : 6,
+        "nContainerHeight"  : 5,
+        "nContainerWidth"  : 4,
         "mapPoints"      : [
         ],
         "mapSlotEffects" : [
@@ -1129,8 +1232,8 @@
           "IsCategoryStorageFurniture=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassetteR",
-        "nContainerHeight"  : 3,
-        "nContainerWidth"  : 3,
+        "nContainerHeight"  : 5,
+        "nContainerWidth"  : 2,
         "mapPoints"      : [
           "use,0,-16"
         ],
@@ -1171,8 +1274,8 @@
           "IsCategoryStorageFurniture=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassetteR",
-        "nContainerHeight"  : 3,
-        "nContainerWidth"  : 3,
+        "nContainerHeight"  : 5,
+        "nContainerWidth"  : 2,
         "mapPoints"      : [
         ],
         "mapSlotEffects" : [
@@ -1217,8 +1320,8 @@
           "IsCategoryStorageFurniture=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassetteR",
-        "nContainerHeight"  : 3,
-        "nContainerWidth"  : 3,
+        "nContainerHeight"  : 5,
+        "nContainerWidth"  : 2,
         "mapPoints"      : [
           "use,0,-16"
         ],
@@ -1262,8 +1365,8 @@
           "IsCategoryStorageFurniture=1.0x1"
         ],
         "strContainerCT"    : "TIsFitCassetteR",
-        "nContainerHeight"  : 3,
-        "nContainerWidth"  : 3,
+        "nContainerHeight"  : 5,
+        "nContainerWidth"  : 2,
         "mapPoints"      : [
         ],
         "mapSlotEffects" : [
