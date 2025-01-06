@@ -23,6 +23,7 @@
           "ItmCassette07=1.0x1",
           "ItmCassette08=1.0x1",
           "ItmCassette09=1.0x1",
+          "ItmCassette10=1.0x1",
           "ItmCBox01=1.00x1-2",
           "ItmCBox02=1.00x1-2",
           "ItmCBox03=1.00x1-2",
@@ -32,6 +33,7 @@
           "ItmCBox07=1.00x1-2",
           "ItmCBox08=1.00x1-2",
           "ItmCBox09=1.00x1-2",
+          "ItmCBox10=1.00x1-2",
           "ItmCRack01Loose=1.0x1",
           "ItmCRack02Loose=1.0x1-2"
         ]
@@ -41,7 +43,7 @@
         "aCOs"    : [
         ],
         "aLoots"  : [
-          "ItmCassette01=0.1x1|ItmCassette02=0.1x1|ItmCassette03=0.1x1|ItmCassette04=0.1x1|ItmCassette05=0.1x1|ItmCassette06=0.1x1|ItmCassette07=0.1x1|ItmCassette08=0.1x1|ItmCassette09=0.1x1|ItmCRack01Loose=0.1x1"
+          "ItmCassette01=0.1x1|ItmCassette02=0.1x1|ItmCassette03=0.1x1|ItmCassette04=0.1x1|ItmCassette05=0.1x1|ItmCassette06=0.1x1|ItmCassette07=0.1x1|ItmCassette08=0.1x1|ItmCassette09=0.1x1|ItmCassette10=0.1x1"
         ],
         "strType" : "item"
       },
@@ -50,7 +52,7 @@
         "aCOs"    : [
         ],
         "aLoots"  : [
-          "ItmCBox01=0.1x1|ItmCBox02=0.1x1|ItmCBox03=0.1x1|ItmCBox04=0.1x1|ItmCBox05=0.1x1|ItmCBox06=0.1x1|ItmCBox07=0.1x1|ItmCBox08=0.1x1|ItmCBox09=0.1x1|ItmCRack02Loose=0.1x1"
+          "ItmCBox01=0.1x1|ItmCBox02=0.1x1|ItmCBox03=0.1x1|ItmCBox04=0.1x1|ItmCBox05=0.1x1|ItmCBox06=0.1x1|ItmCBox07=0.1x1|ItmCBox08=0.1x1|ItmCBox09=0.1x1|ItmCBox10=0.1x1"
         ],
         "strType" : "item"
       },
