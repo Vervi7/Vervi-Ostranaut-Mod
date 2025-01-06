@@ -32,15 +32,15 @@ Ex:
 A collection of storage to organised your Scrap material and spare parts. Available in the scrapshop and rarely on derelict.
 
 - 1 Small Rack 1x2 (installable) ![Small Rack](Cassette/images/ItmCRack02.png)  
-    Slot Count: 9  Accept: "Cassette", "Coffer", spare parts and scrap material.
+    Slot Count: 10  Accept: "Cassette", "Coffer", spare parts and scrap material.
   
 - 1 Rack 1x4 (installable) ![Rack](Cassette/images/ItmCRack01.png)  
-    Slot Count: 18  Accept: "Cassette", "Coffer", spare parts and scrap material.
+    Slot Count: 20  Accept: "Cassette", "Coffer", spare parts and scrap material.
   
-- 9 Cassette 1x2 ![Cassette](Cassette/images/ItmCassette02.png)  
+- 10 Cassette 1x2 ![Cassette](Cassette/images/ItmCassette02.png)  
     Slot Count: 32  Accept: spare parts and scrap material.
   
-- 9 Coffer 1x1 ![Coffer](Cassette/images/ItmCBox02.png)  
+- 10 Coffer 1x1 ![Coffer](Cassette/images/ItmCBox02.png)  
     Slot Count: 16 Accept: spare parts and scrap material.
 
 ## Trash Bag
