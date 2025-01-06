@@ -198,6 +198,28 @@
     ] 
   },
   {
+    "strName" : "ItmCassette10",
+    "strImg"  : "ItmCassette10",
+    "strImgNorm"  : "Cassette00n",
+    "strImgDamaged" : "",
+    "strDmgColor" : "DamageTintGrey",
+    "fZScale"  : 0.25,
+    "nCols"  : 2,
+    "aSocketAdds"    : [
+      "TILItemAdds","TILItemAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank", "Blank", 
+      "Blank", "TILItemForbids", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank", "Blank", 
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ] 
+  },
+  {
     "strName" : "ItmCBox01",
     "strImg"  : "ItmCBox01",
     "strImgNorm"  : "CBox00n",
@@ -376,6 +398,28 @@
   {
     "strName" : "ItmCBox09",
     "strImg"  : "ItmCBox09",
+    "strImgNorm"  : "CBox00n",
+    "strImgDamaged" : "",
+    "strDmgColor" : "DamageTintGrey",
+    "fZScale"  : 0.15,
+    "nCols"  : 1,
+    "aSocketAdds"    : [
+      "TILItemAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank", "Blank", 
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ]  
+  },
+  {
+    "strName" : "ItmCBox10",
+    "strImg"  : "ItmCBox10",
     "strImgNorm"  : "CBox00n",
     "strImgDamaged" : "",
     "strDmgColor" : "DamageTintGrey",
