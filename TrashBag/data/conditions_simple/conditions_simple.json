@@ -2,7 +2,7 @@
   {
    "strName" : "Simple Conditions",
    "aValues" : [
-    "IsTrashBag01","TrashBag01","[us] is a TrashBag01.","2","2","Neutral"
+    "IsTrashBag01","TrashBag01","[us] is a TrashBag01.","2","2","Neutral","false"
     ]
   }
 ]
