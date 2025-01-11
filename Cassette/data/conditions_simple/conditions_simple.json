@@ -2,20 +2,20 @@
   {
    "strName" : "Simple Conditions",
    "aValues" : [
-    "IsCBox01","CBox01","[us] is a CBox01.","2","2","Neutral",
-    "IsCBox02","CBox02","[us] is a CBox02.","2","2","Neutral",
-    "IsCBox03","CBox03","[us] is a CBox03.","2","2","Neutral",
-    "IsCBox04","CBox04","[us] is a CBox04.","2","2","Neutral",
-    "IsCBox05","CBox05","[us] is a CBox05.","2","2","Neutral",
-    "IsCBox06","CBox06","[us] is a CBox06.","2","2","Neutral",
-    "IsCBox07","CBox07","[us] is a CBox07.","2","2","Neutral",
-    "IsCBox08","CBox08","[us] is a CBox08.","2","2","Neutral",
-    "IsCBox09","CBox09","[us] is a CBox09.","2","2","Neutral",
-    "IsCBox09","CBox10","[us] is a CBox09.","2","2","Neutral",
-    "IsCassette","Cassette","[us] is a Cassette.","2","2","Neutral",
-    "IsCassetteB","CassetteB","[us] is a CassetteB.","2","2","Neutral",
-    "IsCassetteR","CassetteR","[us] is a CassetteR.","2","2","Neutral",
-    "IsSmallCassetteR","SmallCassetteR","[us] is a SmallCassetteR.","2","2","Neutral"
+    "IsCBox01","CBox01","[us] is a CBox01.","2","2","Neutral","false",
+    "IsCBox02","CBox02","[us] is a CBox02.","2","2","Neutral","false",
+    "IsCBox03","CBox03","[us] is a CBox03.","2","2","Neutral","false",
+    "IsCBox04","CBox04","[us] is a CBox04.","2","2","Neutral","false",
+    "IsCBox05","CBox05","[us] is a CBox05.","2","2","Neutral","false",
+    "IsCBox06","CBox06","[us] is a CBox06.","2","2","Neutral","false",
+    "IsCBox07","CBox07","[us] is a CBox07.","2","2","Neutral","false",
+    "IsCBox08","CBox08","[us] is a CBox08.","2","2","Neutral","false",
+    "IsCBox09","CBox09","[us] is a CBox09.","2","2","Neutral","false",
+    "IsCBox09","CBox10","[us] is a CBox09.","2","2","Neutral","false",
+    "IsCassette","Cassette","[us] is a Cassette.","2","2","Neutral","false",
+    "IsCassetteB","CassetteB","[us] is a CassetteB.","2","2","Neutral","false",
+    "IsCassetteR","CassetteR","[us] is a CassetteR.","2","2","Neutral","false",
+    "IsSmallCassetteR","SmallCassetteR","[us] is a SmallCassetteR.","2","2","Neutral","false"
     ]
   }
 ]
