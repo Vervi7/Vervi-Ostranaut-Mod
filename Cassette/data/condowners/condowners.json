@@ -2,8 +2,8 @@
     {
         "strName" : "ItmCassette01",
         "strNameShort" : "MB-Cassette",
-        "strNameFriendly" : "Motherboard \"Cassette\" Storage Crate",
-        "strDesc" : "A graphene case, specialized in storing motherboard. Lightweight and durable.",
+        "strNameFriendly" : "Motherboards \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene case, specialized in storing Motherboards. Lightweight and durable.",
         "strItemDef" : "ItmCassette01",
         "strType"    : "Item",
         "strLoot"    : null,
@@ -53,8 +53,8 @@
       {
         "strName" : "ItmCassette02",
         "strNameShort" : "MT-Cassette",
-        "strNameFriendly" : "Motor \"Cassette\" Storage Crate",
-        "strDesc" : "A graphene case, specialized in storing motor. Lightweight and durable.",
+        "strNameFriendly" : "Motors \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene case, specialized in storing Motors. Lightweight and durable.",
         "strItemDef" : "ItmCassette02",
         "strType"    : "Item",
         "strLoot"    : null,
@@ -104,8 +104,8 @@
       {
         "strName" : "ItmCassette03",
         "strNameShort" : "HS-Cassette",
-        "strNameFriendly" : "Heat Sink \"Cassette\" Storage Crate",
-        "strDesc" : "A graphene case, specialized in storing Heat Sink. Lightweight and durable.",
+        "strNameFriendly" : "Heat Sinks \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene case, specialized in storing Heat Sinks. Lightweight and durable.",
         "strItemDef" : "ItmCassette03",
         "strType"    : "Item",
         "strLoot"    : null,
@@ -155,8 +155,8 @@
       {
         "strName" : "ItmCassette04",
         "strNameShort" : "S-Cassette",
-        "strNameFriendly" : "Screen \"Cassette\" Storage Crate",
-        "strDesc" : "A graphene case, specialized in storing Screen. Lightweight and durable.",
+        "strNameFriendly" : "Screens \"Cassette\" Storage Crate",
+        "strDesc" : "A graphene case, specialized in storing Screens. Lightweight and durable.",
         "strItemDef" : "ItmCassette04",
         "strType"    : "Item",
         "strLoot"    : null,
@@ -512,8 +512,8 @@
       {
         "strName" : "ItmCBox01",
         "strNameShort" : "MB-Coffer",
-        "strNameFriendly" : "Motherboard \"Coffer\" Storage Box",
-        "strDesc" : "A graphene Box, specialized in storing motherboard. Lightweight and durable",
+        "strNameFriendly" : "Motherboards \"Coffer\" Storage Box",
+        "strDesc" : "A graphene Box, specialized in storing Motherboards. Lightweight and durable",
         "strItemDef" : "ItmCBox01",
         "strType"    : "Item",
         "strLoot"    : null,
@@ -564,8 +564,8 @@
       {
         "strName" : "ItmCBox02",
         "strNameShort" : "MT-Coffer",
-        "strNameFriendly" : "Motor \"Coffer\" Storage Box",
-        "strDesc" : "A graphene Box, specialized in storing motor. Lightweight and durable.",
+        "strNameFriendly" : "Motors \"Coffer\" Storage Box",
+        "strDesc" : "A graphene Box, specialized in storing Motors. Lightweight and durable.",
         "strItemDef" : "ItmCBox02",
         "strType"    : "Item",
         "strLoot"    : null,
@@ -616,8 +616,8 @@
       {
         "strName" : "ItmCBox03",
         "strNameShort" : "HS-Coffer",
-        "strNameFriendly" : "Heat Sink \"Coffer\" Storage Box",
-        "strDesc" : "A graphene Box, specialized in storing Heat Sink. Lightweight and durable.",
+        "strNameFriendly" : "Heat Sinks \"Coffer\" Storage Box",
+        "strDesc" : "A graphene Box, specialized in storing Heat Sinks. Lightweight and durable.",
         "strItemDef" : "ItmCBox03",
         "strType"    : "Item",
         "strLoot"    : null,
@@ -668,8 +668,8 @@
       {
         "strName" : "ItmCBox04",
         "strNameShort" : "S-Coffer",
-        "strNameFriendly" : "Screen \"Coffer\" Storage Box",
-        "strDesc" : "A graphene Box, specialized in storing Screen. Lightweight and durable.",
+        "strNameFriendly" : "Screens \"Coffer\" Storage Box",
+        "strDesc" : "A graphene Box, specialized in storing Screens. Lightweight and durable.",
         "strItemDef" : "ItmCBox04",
         "strType"    : "Item",
         "strLoot"    : null,
@@ -1034,7 +1034,7 @@
         "strNameShort" : "CRack",
         "strItemDef" : "ItmCRack01",
         "strNameFriendly" : "Cassette Rack 1x4",
-        "strDesc" : "A verticale serie of shelving, specialized in storing the \"Cassette\" serie of storage crate.",
+        "strDesc" : "A verticale serie of shelves, specialized in storing the \"Cassette\" serie of storage crate.",
         "strType"    : "Item",
         "aInteractions" : [
           "Inventory"
@@ -1074,7 +1074,7 @@
         "strNameShort" : "CRackL",
         "strItemDef" : "ItmCRack01Loose",
         "strNameFriendly" : "Cassette Rack 1x4(Loose)",
-        "strDesc" : "A verticale serie of shelving, specialized in storing the \"Cassette\" serie of storage crate.",
+        "strDesc" : "A verticale serie of shelves, specialized in storing the \"Cassette\" serie of storage crate.",
         "strType"    : "Item",
         "aInteractions" : [
           "DropItem",
@@ -1117,7 +1117,7 @@
         "strNameShort" : "CRackD",
         "strItemDef" : "ItmCRack01Dmg",
         "strNameFriendly" : "Cassette Rack 1x4 (Damaged)",
-        "strDesc" : "A verticale serie of shelving, specialized in storing the \"Cassette\" serie of storage crate.",
+        "strDesc" : "A verticale serie of shelves, specialized in storing the \"Cassette\" serie of storage crate.",
         "strType"    : "Item",
         "aInteractions" : [
           "ACTPryOpen"
@@ -1163,7 +1163,7 @@
         "strNameShort" : "CRackDL",
         "strItemDef" : "ItmCRack01DmgLoose",
         "strNameFriendly" : "Cassette Rack 1x4 (Damaged, Loose)",
-        "strDesc" : "A verticale serie of shelving, specialized in storing the \"Cassette\" serie of storage crate.",
+        "strDesc" : "A verticale serie of shelves, specialized in storing the \"Cassette\" serie of storage crate.",
         "strType"    : "Item",
         "aInteractions" : [
           "DropItem",
@@ -1208,7 +1208,7 @@
         "strNameShort" : "CSmallRack",
         "strItemDef" : "ItmCRack02",
         "strNameFriendly" : "Coffer Rack 1x2",
-        "strDesc" : "A verticale serie of shelving, specialized in storing the \"Coffer\" serie of storage crate.",
+        "strDesc" : "A verticale serie of shelves, specialized in storing the \"Coffer\" serie of storage crate.",
         "strType"    : "Item",
         "aInteractions" : [
           "Inventory"
@@ -1248,7 +1248,7 @@
         "strNameShort" : "CSmallRackL",
         "strItemDef" : "ItmCRack02Loose",
         "strNameFriendly" : "Coffer Rack 1x2(Loose)",
-        "strDesc" : "A verticale serie of shelving, specialized in storing the \"Coffer\" serie of storage crate.",
+        "strDesc" : "A verticale serie of shelves, specialized in storing the \"Coffer\" serie of storage crate.",
         "strType"    : "Item",
         "aInteractions" : [
           "DropItem",
@@ -1291,7 +1291,7 @@
         "strNameShort" : "CSmallRackD",
         "strItemDef" : "ItmCRack02Dmg",
         "strNameFriendly" : "Coffer Rack 1x2 (Damaged)",
-        "strDesc" : "A verticale serie of shelving, specialized in storing the \"Coffer\" serie of storage crate.",
+        "strDesc" : "A verticale serie of shelves, specialized in storing the \"Coffer\" serie of storage crate.",
         "strType"    : "Item",
         "aInteractions" : [
           "ACTPryOpen"
@@ -1337,7 +1337,7 @@
         "strNameShort" : "CSmallRackDL",
         "strItemDef" : "ItmCRack02DmgLoose",
         "strNameFriendly" : "Coffer Rack 1x2 (Damaged, Loose)",
-        "strDesc" : "A verticale serie of shelving, specialized in storing the \"Coffer\" serie of storage crate.",
+        "strDesc" : "A verticale serie of shelves, specialized in storing the \"Coffer\" serie of storage crate.",
         "strType"    : "Item",
         "aInteractions" : [
           "DropItem",
