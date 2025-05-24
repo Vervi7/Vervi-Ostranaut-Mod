@@ -4,7 +4,7 @@
     {
       "strName" : "ItmOKLGSupplyKioskInv",
       "aLoots"  : [
-        "--ADD--=",
+        "--ADD--",
         "ItmTrashBag01=1.0x20"
       ]
     }
