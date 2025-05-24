@@ -13,7 +13,7 @@
       {
         "strName" : "ItmOKLGSupplyKioskInv",
         "aLoots"  : [
-          "--ADD--=",
+          "--ADD--",
           "ItmCassette01=1.0x1",
           "ItmCassette02=1.0x1",
           "ItmCassette03=1.0x1",
@@ -59,7 +59,7 @@
       {
         "strName" : "ItmLootSpawnBulkCargo",
         "aLoots"  : [
-          "--ADD--=",
+          "--ADD--",
           "ItmLootCofferSpawn=0.2x1-2|ItmLootCassetteSpawn=0.1x1"
         ]
       }
