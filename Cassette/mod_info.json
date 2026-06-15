@@ -4,7 +4,7 @@
     "strAuthor": "Vervi",
     "strModURL": "https://bluebottlegames.com/games/ostranauts",
     "strGameVersion": "0.15.1.0",
-    "strModVersion": "1.4.2",
+    "strModVersion": "1.4.3",
     "requiredAPIs": ["FFU_BR_Core>=0.6"],
     "strNotes": "Add specialized storage box for spare part and scrap material"
   }
