@@ -23,6 +23,7 @@ Ex:
   "strName" : "Mod Loading Order",
   "aLoadOrder" : [
   "core",
+  "Minor_Fixes_Plus",
   "TrashBag",
   "Cassette"]
  }
